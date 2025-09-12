@@ -5,9 +5,9 @@ Braille Chemistry
 
 https://aibolem.github.io/AbChemdb/chemistry/index.html
 
-Braille_Mendeleev-Period-Elements-Table for People with reduced seen
+Braille_Mendeleev-Period-Elements-Table for People with reduced seen:  https://aibolem.github.io/AbChemdb/Braille_Periodensystem_Einfach.svg
 
-based on Periodensystem_Einfach.svg Mendeleev Period Elements Table
+based on Periodensystem_Einfach.svg Mendeleev Period Elements Table:  https://aibolem.github.io/AbChemdb/Periodensystem_Einfach.svg
 
 
 
